@@ -1,0 +1,8 @@
+tensorflow
+tensorflow-hub
+spacy
+nltk
+scikit-learn
+matplotlib
+gensim
+pandas
